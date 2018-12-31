@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialise a repo, a folder .git is created holding the meta data of the repo. The new git repo is tied to a specific directory, with zero commits. You need to initialise a git repo because a directory is not automatically a git repo.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	You add files from the working directory to the staging area. You then create
+	a commit of the files in this staging area. This commit then lives inside the 
+	repository. The staging area allows you to keep modifying what files are to
+	be added to a commit, before the actual commit is enshrined in (the git)
+	history.
