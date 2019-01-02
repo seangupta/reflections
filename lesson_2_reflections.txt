@@ -23,3 +23,10 @@ change?
 	working directory and the staging area to verify that there is only one
 	logical change, before committing.
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	Branches allow one to experiment and try out new changes. Also one might want
+	to create different versions of an application, e.g. a working prototype to
+	show to someone but without affecting the master branch.
+
