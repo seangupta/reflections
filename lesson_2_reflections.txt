@@ -35,3 +35,19 @@ How do the diagrams help you visualize the branch structure?
 	Diagrams show the tree structure that emerges from a git project, including
 	parent-child/ancestry relationships as well as reachability.
 
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Merging two branches yields a combined branch (merged into the currently
+	checked out branch) with all changes present in either one of the merged
+	branches (unless a line was removed from the original in one of the branches).
+	We represent this in a diagram to help visualise the branch structure and show
+	what the parent branches for the new merged branch are, and where all commits
+	in the merged branch stem from.
+
+
+
+
+
+
+
