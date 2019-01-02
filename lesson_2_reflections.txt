@@ -45,6 +45,16 @@ the diagram the way we do?
 	what the parent branches for the new merged branch are, and where all commits
 	in the merged branch stem from.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	Git's automatic merging allows you to work more effectively because you don't
+	have to manually merge branches. However, sometimes merge conflicts can arise,
+	in which case these need to resolve manually. In principle, a machine learning
+	scheme could be used to let Git make an educated guess how to resolve this
+	conflict however this would create the possibility of git erring when
+	performing the conflict resolution.
+
 
 
 
