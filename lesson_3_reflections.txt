@@ -9,3 +9,12 @@ automatically stay up-to-date with your remote repository?
 	You might want to always pull changes manually in order to allow for local
 	experimentation without constantly having to account for changes others are
 	pushing onto GitHub.
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+	Cloning means copying a repository including its commit history. This can be 
+	done locally (local to local) or from the Github server to the local machine.
+	If it is fone from the Github server to the Github server, it is called
+	forking. Branching refers to creating a new branch in a repo, which can
+	be done either locally or on the server.
