@@ -30,3 +30,8 @@ organized? How would branches help?
 	to create different versions of an application, e.g. a working prototype to
 	show to someone but without affecting the master branch.
 
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams show the tree structure that emerges from a git project, including
+	parent-child/ancestry relationships as well as reachability.
+
