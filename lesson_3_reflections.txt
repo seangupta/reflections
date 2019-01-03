@@ -18,3 +18,13 @@ one instead of another?
 	If it is fone from the Github server to the Github server, it is called
 	forking. Branching refers to creating a new branch in a repo, which can
 	be done either locally or on the server.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+	If you are not able to access the Internet for a while (e.g. on a plane) then
+	having a local copy of the remote is useful as it is the most up-to-date
+	verion of the remote and one can take the most recent remote changes into
+	account when making one's own local changes.
+
+
