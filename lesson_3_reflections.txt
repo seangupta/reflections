@@ -27,4 +27,14 @@ locally?
 	verion of the remote and one can take the most recent remote changes into
 	account when making one's own local changes.
 
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+	Without using Git/GitHub, I would collaborate by saving drafts of new file
+	versions and then comparing my new draft with others by doing an in-person
+	review. This would be easier in the sense that one does not need to know
+	the versioning technology, but harder because merge conflicts would be
+	harder to resolve. It would also be harder to see who has changed what, and
+	what the differences between different versions of a file are.
+
 
