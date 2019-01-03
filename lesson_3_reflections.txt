@@ -37,4 +37,10 @@ what would be harder?
 	harder to resolve. It would also be harder to see who has changed what, and
 	what the differences between different versions of a file are.
 
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+	Making changes directly in master leads to an easier workflow. On the other
+	hand, making changes in a separate branch allows for experimentation or non-
+	standard versions of the application being designed (e.g. different language).
 
